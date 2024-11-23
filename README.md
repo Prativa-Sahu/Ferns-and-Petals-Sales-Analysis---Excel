@@ -1,10 +1,10 @@
 # Ferns-and-Petals-Sales-Analysis---Excel 📈
 
-Project Overview
+**Project Overview: Ferns and Petals Sales Analysis**
 
 This repository contains the Excel dashboard project focusing on the **Ferns and Petals dataset**. It is created for data analysis. It covers **data extraction**, **data cleaning**, **data transformation**, **data modeling**, and **data visualization** using Power Query, Power Pivot, and pivot tables. The project aims to analyze sales performance, customer spending, and product popularity, culminating in an interactive dashboard for insights.
 
-**Problem Statement: Ferns and Petals Sales Analysis**
+**Problem Statement**
 
  You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for
  various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and
