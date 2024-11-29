@@ -101,6 +101,7 @@ Focus on cities like Imphal and Bilaspur to build customer loyalty programs, as 
 Address the revenue decline during off-peak months by introducing discounts or collaborations to stimulate demand.
 
 **Conclusion**
+
 This sales analysis dashboard provides valuable insights for strategic decision-making. By leveraging the identified trends and focusing on customer preferences, the business can further enhance revenue generation and operational efficiency.
 
 **Dashboard** 
