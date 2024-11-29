@@ -32,3 +32,8 @@ This repository contains the Excel dashboard project focusing on the **Ferns and
  specific occasions
 
 **Solution**
+
+
+
+**Dashboard** 
+![image](https://github.com/user-attachments/assets/e2d5cb03-90c6-4b04-8182-db9a3db82079)
